@@ -16,47 +16,29 @@
 ## 🛠️ Languages & Tools
 
 <p align="left">
-
   <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/><br>
-  <b>Python</b>
-  <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
 
   <!-- NumPy -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50"/><br>
-  <b>NumPy</b>
-  <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
 
   <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50" height="50"/><br>
-  <b>Pandas</b>
-  <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
 
   <!-- Matplotlib -->
-  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white"/><br>
-  <b>Matplotlib</b>
-  <br><br>
+  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white" height="40"/>
 
   <!-- Seaborn -->
-  <img src="https://img.shields.io/badge/Seaborn-4EADF5?style=for-the-badge&logo=python&logoColor=white"/><br>
-  <b>Seaborn</b>
-  <br><br>
+  <img src="https://img.shields.io/badge/Seaborn-4EADF5?style=for-the-badge&logo=python&logoColor=white" height="40"/>
 
-  <!-- Scikit-learn -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="50" height="50"/><br>
-  <b>Scikit-Learn</b>
-  <br><br>
+  <!-- Scikit-learn (fixed) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
 
   <!-- SQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60"/><br>
-  <b>SQL</b>
-  <br><br>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
 
   <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/><br>
-  <b>Git</b>
-  <br>
-
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
 </p>
 
 ---
@@ -83,23 +65,17 @@
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/radwanhefny" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>  
-  <b>LinkedIn</b>
-  <br><br>
+  </a>
 
   <!-- Facebook -->
   <a href="https://web.facebook.com/radwan.hefny.2025" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
-  </a>  
-  <b>Facebook</b>
-  <br><br>
+  </a>
 
   <!-- WhatsApp -->
   <a href="https://wa.me/201094028146" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40"/>
-  </a>  
-  <b>WhatsApp: 01094028146</b>
-  <br>
+  </a>
 
 </p>
 
