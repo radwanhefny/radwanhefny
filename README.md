@@ -1,7 +1,8 @@
 # 🌟 Hi 👋, I'm Radwan Hefny  
 <p align="center">
-  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="350"/>
+  <img src="https://github.com/radwanhefny/photo/blob/main/Gemini_Generated_Image_ytq0erytq0erytq0.png?raw=true" width="350"/>
 </p>
+
 
 ---
 
