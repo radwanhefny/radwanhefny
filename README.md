@@ -15,31 +15,44 @@
 
 ## 🛠️ Languages & Tools
 
-<p align="left">
-  <!-- Python -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/>
-
-  <!-- NumPy -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/>
-
-  <!-- Pandas -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/>
-
-  <!-- Matplotlib -->
-  <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-
-  <!-- Seaborn -->
-  <img src="https://img.shields.io/badge/Seaborn-4EADF5?style=for-the-badge&logo=python&logoColor=white" height="40"/>
-
-  <!-- Scikit-learn (fixed) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50"/>
-
-  <!-- SQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/>
-
-  <!-- Git -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>
+      <b>Python</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/><br>
+      <b>NumPy</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/><br>
+      <b>Pandas</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white" height="40"/><br>
+      <b>Matplotlib</b>
+    </td>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Seaborn-4EADF5?style=for-the-badge&logo=python&logoColor=white" height="40"/><br>
+      <b>Seaborn</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50"/><br>
+      <b>Scikit-Learn</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/><br>
+      <b>SQL</b>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/><br>
+      <b>Git</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -62,26 +75,5 @@
 
 <p align="left">
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/radwanhefny" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
-  </a>
-
-  <!-- Facebook -->
-  <a href="https://web.facebook.com/radwan.hefny.2025" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40"/>
-  </a>
-
-  <!-- WhatsApp -->
-  <a href="https://wa.me/201094028146" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="40"/>
-  </a>
-
-</p>
-
----
-
-## ✨ Animated Coding Corner
-<p align="center">
-  <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="350"/>
-</p>
+  <a href="https://www.linkedin.com/in/radwanhefny" target="_blank" style="margin-right: 20px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator
