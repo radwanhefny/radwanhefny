@@ -1,39 +1,60 @@
-<h1 align="center">Hi, I'm Radwan Hefny <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 🌟 Hi 👋, I'm Radwan Hefny  
+<p align="center">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="350"/>
+</p>
+
+---
+
+## 🌱 About Me
+- 🎓 I’m currently learning **Machine Learning & Data Science**  
+- 🧠 Interested in **Artificial Intelligence, Data Analysis, and Problem Solving**  
+- 💡 I enjoy creating clean, organized, and practical ML projects  
+- 🎬 In my free time, I enjoy watching **action & romantic movies**
+
+---
+
+## 🛠️ Languages & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45"/>
+  <img src="https://www.vectorlogo.zone/logos/matplotlib/matplotlib-icon.svg" width="45" height="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=radwanhefny&theme=dark" width="520"/>
+</p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hello+World!;Self-taught+AI+and+Data+Science+Enthusiast;Learning+Python+and+ML" />
+  <img src="https://github-readme-stats.vercel.app/api?username=radwanhefny&show_icons=true&theme=dark" width="520"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwanhefny&layout=compact&theme=dark" width="420"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+<p align="left">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+  </a>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
-- Passionate self-learner in Python and Machine Learning.
-- Interested in Data Analysis, Visualization, and AI projects.
-- Actively practicing Python libraries and data science tools.
-
----
-
-## 🛠 Skills
-
-**Programming & Data Analysis:**  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
-<img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />  
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />  
-<img src="https://img.shields.io/badge/Matplotlib-F37626?style=for-the-badge&logo=matplotlib&logoColor=white" />  
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=seaborn&logoColor=white" />  
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />  
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-
----
-
-## 📫 Connect with Me
-- [GitHub](https://github.com/your-username)  
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin/)  
-
----
-
+## ✨ Animated Coding Corner
 <p align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="200">
+  <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="350"/>
 </p>
