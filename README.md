@@ -16,58 +16,75 @@
 ## 🛠️ Languages & Tools
 
 <table>
-  <tr align="center">
-    <td>
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="50"><br>
-      <sub>Python</sub>
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>
+      <b>Python</b>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/numpy/numpy/master/branding/logo/primary/numpylogo.svg" width="50"><br>
-      <sub>NumPy</sub>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/><br>
+      <b>NumPy</b>
     </td>
-    <td>
-      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="50"><br>
-      <sub>Pandas</sub>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/><br>
+      <b>Pandas</b>
     </td>
-    <td>
-      <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="50"><br>
-      <sub>Matplotlib</sub>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white" height="40"/><br>
+      <b>Matplotlib</b>
     </td>
   </tr>
-
-  <tr height="20"></tr>
-
-  <tr align="center">
-    <td>
-      <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="80"><br>
-      <sub>Seaborn</sub>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50"/><br>
+      <b>Scikit-Learn</b>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/scikit-learn/scikit-learn/main/doc/logos/scikit-learn-logo-notext.png" width="50"><br>
-      <sub>scikit-learn</sub>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/><br>
+      <b>SQL</b>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="50"><br>
-      <sub>SQL</sub>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/><br>
+      <b>Git</b>
     </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/github/explore/main/topics/jupyter-notebook/jupyter-notebook.png" width="50"><br>
-      <sub>Jupyter</sub>
+    <td align="center" width="150">
+      <img src="https://img.shields.io/badge/Seaborn-4EADF5?style=for-the-badge&logo=python&logoColor=white" height="40"/><br>
+      <b>Seaborn</b>
     </td>
   </tr>
 </table>
 
 ---
 
-## 📬 Connect With Me
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=radwanhefny&theme=dark" width="520"/>
+</p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/radwanhefny">
-    <img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="45">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://web.facebook.com/radwan.hefny.2025">
-    <img src="https://cdn-icons-png.flaticon.com/512/124/124010.png" width="45">
-  </a>
-  &n
+  <img src="https://github-readme-stats.vercel.app/api?username=radwanhefny&show_icons=true&theme=dark" width="520"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwanhefny&layout=compact&theme=dark" width="420"/>
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<table>
+  <tr>
+    <td><a href="https://www.linkedin.com/in/radwanhefny"><img width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a></td>
+    <td><a href="https://web.facebook.com/radwan.hefny.2025"><img width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"></a></td>
+    <td><a href="https://wa.me/201094028146"><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a></td>
+  </tr>
+</table>
+
+
+---
+
+## ✨ Animated Coding Corner
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" width="350"/>
+</p>
