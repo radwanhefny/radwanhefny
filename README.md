@@ -6,10 +6,10 @@
 ---
 
 ## 🌱 About Me
-- 🎓 I’m currently learning **Machine Learning & Data Science**  
-- 🧠 Interested in **Artificial Intelligence, Data Analysis, and Problem Solving**  
-- 💡 I enjoy creating clean, organized, practical ML projects  
-- 🎬 In my free time, I enjoy watching **action & romantic movies**
+- 🤖 Focused on building **Robust Machine Learning Models** and **Delivering Data-Driven Insights**
+- 📈 Currently enhancing my skills in **Deep Learning and MLOps** 
+- 🧠 Passionate about applying **Mathematical Modeling and Statistics** to create clean, practical ML projects.  
+- 🎬 In my free time, I enjoy **watching movies and reading**
 
 ---
 
