@@ -60,7 +60,7 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=radwanhefny&theme=dark&hide_border=true" 
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=radwanhefny&theme=dark&hide_border=true" 
     width="520"
   />
 </p>
