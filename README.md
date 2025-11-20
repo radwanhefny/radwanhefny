@@ -59,8 +59,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=radwanhefny&theme=dark" width="520"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=radwanhefny&theme=dark&hide_border=true" 
+    width="520"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=radwanhefny&show_icons=true&theme=dark" width="520"/>
