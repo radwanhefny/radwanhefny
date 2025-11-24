@@ -114,11 +114,29 @@
 
 <table>
   <tr>
-    <td><a href="https://www.linkedin.com/in/radwanhefny"><img width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"></a></td>
-    <td><a href="https://web.facebook.com/radwan.hefny.2025"><img width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"></a></td>
-    <td><a href="https://wa.me/201094028146"><img width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg"></a></td>
+    <td>
+      <a href="https://www.linkedin.com/in/radwanhefny">
+        <img width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
+      </a>
+    </td>
+    <td>
+      <a href="https://web.facebook.com/radwan.hefny.2025">
+        <img width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
+      </a>
+    </td>
+    <td>
+      <a href="https://wa.me/201094028146">
+        <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:radwanhefney@gmail.com">
+        <img width="45" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 ---
