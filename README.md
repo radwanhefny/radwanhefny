@@ -73,6 +73,40 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwanhefny&layout=compact&theme=dark" width="420"/>
 </p>
+---
+---
+
+## 🏗️ Projects
+
+### 📊 Data Analysis Projects
+<table>
+<tr>
+<td>
+  <a href="https://github.com/radwanhefny/Mean-Variance-Standard-Deviation-Calculator">
+    Mean Variance Standard Deviation Calculator
+  </a>
+</td>
+<td>
+  <a href="https://github.com/radwanhefny/Medical-Data-Visualizer">
+    Medical Data Visualizer
+  </a>
+</td>
+<td>
+  <a href="https://github.com/radwanhefny/Demographic-Data-Analyzer">
+    Demographic Data Analyzer
+  </a>
+</td>
+</tr>
+<tr>
+<td>
+  <a href="https://github.com/radwanhefny/Page-View-Time-Series-Visualizer">
+    Page View Time Series Visualizer
+  </a>
+</td>
+<td>
+  <a href="https://github.com/radwanhefny/Sea-Level-Predictor">
+    Sea Level Predictor
+</table>
 
 ---
 
