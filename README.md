@@ -73,7 +73,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwanhefny&layout=compact&theme=dark" width="420"/>
 </p>
----
+
+
+
 ---
 
 ## 🏗️ Projects
@@ -81,43 +83,60 @@
 ### 📊 Data Analysis Projects
 <table>
 <tr>
-<td align="center">
+<td align="center" width="180" height="200">
   <a href="https://github.com/radwanhefny/Mean-Variance-Standard-Deviation-Calculator">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Mean%20Variance%20STD%20Calculator.png" width="150"/><br>
     Mean Variance Standard Deviation Calculator
   </a>
 </td>
-<td align="center">
+<td align="center" width="180" height="200">
   <a href="https://github.com/radwanhefny/Medical-Data-Visualizer">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Medical%20Data%20Visualizer.png" width="150"/><br>
     Medical Data Visualizer
   </a>
 </td>
-<td align="center">
+<td align="center" width="180" height="200">
   <a href="https://github.com/radwanhefny/Demographic-Data-Analyzer">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Demographic%20Data%20Analyzer.png" width="150"/><br>
     Demographic Data Analyzer
   </a>
 </td>
-</tr>
-<tr>
-<td align="center">
+<td align="center" width="180" height="200">
   <a href="https://github.com/radwanhefny/Page-View-Time-Series-Visualizer">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Page%20View%20Time%20Series%20Visualizer.png" width="150"/><br>
     Page View Time Series Visualizer
   </a>
 </td>
-<td align="center">
+<td align="center" width="180" height="200">
   <a href="https://github.com/radwanhefny/Sea-Level-Predictor">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Sea%20Level%20Predictor.png" width="150"/><br>
     Sea Level Predictor
   </a>
 </td>
-<td>
-  <!-- Empty cell to keep 2x3 layout -->
+</tr>
+</table>
+
+
+### 🤖 Linear Regression Projects
+<table>
+<tr>
+<td align="center" width="180" height="200">
+  <a href="https://github.com/radwanhefny/linear-regression-from-scratch-univariate">
+    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/linear%20regression%20from%20scratch(uni).png" width="150"/><br>
+    From Scratch (Univariate)
+  </a>
+</td>
+<td align="center" width="180" height="200">
+  <!-- Empty cell to keep layout uniform -->
+  <div style="height: 150px;"></div>
+</td>
+<td align="center" width="180" height="200">
+  <!-- Empty cell to keep layout uniform -->
+  <div style="height: 150px;"></div>
 </td>
 </tr>
 </table>
+
 
 
 ---
