@@ -134,6 +134,14 @@
   <!-- Empty cell to keep layout uniform -->
   <div style="height: 150px;"></div>
 </td>
+<td align="center" width="180" height="200">
+  <!-- Empty cell to keep layout uniform -->
+  <div style="height: 150px;"></div>
+</td>
+<td align="center" width="180" height="200">
+  <!-- Empty cell to keep layout uniform -->
+  <div style="height: 150px;"></div>
+</td>
 </tr>
 </table>
 
