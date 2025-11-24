@@ -18,42 +18,44 @@
 
 <table>
   <tr>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>
+    <td align="center" width="150" height="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
       <b>Python</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50"/><br>
+    <td align="center" width="150" height="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
       <b>NumPy</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="50"/><br>
+    <td align="center" width="150" height="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
       <b>Pandas</b>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white" height="40"/><br>
+    <td align="center" width="150" height="150">
+      <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white" width="60" height="60" style="display:block;margin:auto;"/><br>
       <b>Matplotlib</b>
     </td>
   </tr>
   <tr>
-    <td align="center" width="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="50"/><br>
+    <td align="center" width="150" height="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
       <b>Scikit-Learn</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60"/><br>
+    <td align="center" width="150" height="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
       <b>SQL</b>
     </td>
-    <td align="center" width="120">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50"/><br>
+    <td align="center" width="150" height="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
       <b>Git</b>
     </td>
-    <td align="center" width="150">
-      <img src="https://img.shields.io/badge/Seaborn-4EADF5?style=for-the-badge&logo=python&logoColor=white" height="40"/><br>
+    <td align="center" width="150" height="150">
+      <img src="https://img.shields.io/badge/Seaborn-4EADF5?style=for-the-badge&logo=python&logoColor=white" width="60" height="60" style="display:block;margin:auto;"/><br>
       <b>Seaborn</b>
     </td>
   </tr>
 </table>
+
+
 
 ---
 
@@ -117,7 +119,7 @@
 </table>
 
 
-### 🤖 Linear Regression Projects
+### 🧠 Machine Learning Projects
 <table>
 <tr>
 <td align="center" width="180" height="200">
