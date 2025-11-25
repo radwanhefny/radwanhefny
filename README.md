@@ -8,7 +8,7 @@
 
 ## 🌱 About Me
 - 🤖 Focused on building **Robust Machine Learning Models** and **Delivering Data-Driven Insights**
-- 🚀 Transitioning from robust Data Analysis to building **Foundational Machine Learning Models* using **Scikit-learn**
+- 🚀 Transitioning from robust Data Analysis to building **Foundational Machine Learning Models** using **Scikit-learn**
 - 🧠 Passionate about applying **Mathematical Modeling and Statistics** to create clean, practical ML projects.  
 - 🎬 In my free time, I enjoy **watching movies and reading**
 
@@ -186,11 +186,6 @@
     <td>
       <a href="https://www.linkedin.com/in/radwanhefny">
         <img width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
-      </a>
-    </td>
-    <td>
-      <a href="https://web.facebook.com/radwan.hefny.2025">
-        <img width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg">
       </a>
     </td>
     <td>
