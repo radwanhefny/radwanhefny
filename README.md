@@ -8,7 +8,7 @@
 
 ## 🌱 About Me
 - 🤖 Focused on building **Robust Machine Learning Models** and **Delivering Data-Driven Insights**
-- 📈 Currently enhancing my skills in **Deep Learning and MLOps** 
+- 🚀 Transitioning from robust Data Analysis to building **Foundational Machine Learning Models* using **Scikit-learn**
 - 🧠 Passionate about applying **Mathematical Modeling and Statistics** to create clean, practical ML projects.  
 - 🎬 In my free time, I enjoy **watching movies and reading**
 
