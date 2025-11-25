@@ -63,17 +63,22 @@
 <p align="center">
   <img 
     src="https://github-readme-streak-stats-eight.vercel.app/?user=radwanhefny&theme=dark&hide_border=true" 
-    width="520"
+    width="400"
   />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radwanhefny&show_icons=true&theme=dark&cache_seconds=0" width="520"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=radwanhefny&theme=github_dark" 
+    alt="GitHub Activity Stats"
+    width="400"
+  />
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwanhefny&layout=compact&theme=dark" width="420"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwanhefny&layout=compact&theme=dark" width="400"/>
 </p>
 
 
