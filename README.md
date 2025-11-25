@@ -69,7 +69,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=radwanhefny&show_icons=true&theme=dark" width="520"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=radwanhefny&show_icons=true&theme=dark&cache_seconds=0" width="520"/>
 </p>
 
 <p align="center">
