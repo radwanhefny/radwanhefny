@@ -30,11 +30,14 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
       <b>Pandas</b>
     </td>
+    <!-- Matplotlib -->
     <td align="center" width="150" height="150">
-      <img src="https://img.shields.io/badge/Matplotlib-007ACC?style=for-the-badge&logo=python&logoColor=white" width="60" height="60" style="display:block;margin:auto;"/><br>
+      <img src="https://raw.githubusercontent.com/radwanhefny/radwanhefny/main/liberaries/matplotlib1.jpg" 
+           width="60" height="60" style="display:block;margin:auto; border-radius:8px;"/><br>
       <b>Matplotlib</b>
     </td>
   </tr>
+
   <tr>
     <td align="center" width="150" height="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
@@ -48,8 +51,10 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
       <b>Git</b>
     </td>
+    <!-- Seaborn -->
     <td align="center" width="150" height="150">
-      <img src="https://img.shields.io/badge/Seaborn-4EADF5?style=for-the-badge&logo=python&logoColor=white" width="60" height="60" style="display:block;margin:auto;"/><br>
+      <img src="https://raw.githubusercontent.com/radwanhefny/radwanhefny/main/liberaries/seaborn-1.jpg" 
+           width="60" height="60" style="display:block;margin:auto; border-radius:8px;"/><br>
       <b>Seaborn</b>
     </td>
   </tr>
