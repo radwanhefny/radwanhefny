@@ -188,23 +188,34 @@
 
 <table>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://www.linkedin.com/in/radwanhefny">
         <img width="45" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg">
       </a>
+      <div>
+        <a href="https://www.linkedin.com/in/radwanhefny">LinkedIn</a>
+      </div>
     </td>
-    <td>
+    <td align="center">
       <a href="https://wa.me/201094028146">
         <img width="45" src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg">
       </a>
+      <div>
+        <a href="https://wa.me/201094028146">WhatsApp</a>
+      </div>
     </td>
-    <td>
+    <td align="center">
       <a href="mailto:radwanhefney@gmail.com">
         <img width="45" src="https://cdn-icons-png.flaticon.com/512/732/732200.png">
       </a>
+      <div>
+        <a href="mailto:radwanhefney@gmail.com">Email</a>
+      </div>
     </td>
   </tr>
 </table>
+
+
 
 
 
