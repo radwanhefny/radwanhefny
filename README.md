@@ -141,7 +141,7 @@
 
 <td align="center" width="180" height="200">
   <a href="https://github.com/radwanhefny/linear-regression-from-scratch-multivariate/tree/main">
-    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/multivariate%20LR.jpg" width="150"/><br>
+    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/linear-regression-from-scratch(multi).png" width="150"/><br>
     From Scratch (Multivariate)
   </a>
 </td>
