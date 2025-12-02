@@ -138,12 +138,16 @@
     From Scratch (Univariate)
   </a>
 </td>
+
 <td align="center" width="180" height="200">
-  <!-- Empty cell to keep layout uniform -->
-  <div style="height: 150px;"></div>
+  <a href="https://github.com/radwanhefny/linear-regression-from-scratch-multivariate/tree/main">
+    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/multivariate%20LR.jpg" width="150"/><br>
+    From Scratch (Multivariate)
+  </a>
 </td>
 </tr>
 </table>
+
 
 
 
