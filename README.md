@@ -135,14 +135,14 @@
 <td align="center" width="180" height="200">
   <a href="https://github.com/radwanhefny/linear-regression-from-scratch-univariate">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/linear%20regression%20from%20scratch(uni).png" width="150"/><br>
-    From Scratch (Univariate)
+    LR From Scratch (Univariate)
   </a>
 </td>
 
 <td align="center" width="180" height="200">
   <a href="https://github.com/radwanhefny/linear-regression-from-scratch-multivariate/tree/main">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/linear-regression-from-scratch(multi).png" width="150"/><br>
-    From Scratch (Multivariate)
+    LR From Scratch (Multivariate)
   </a>
 </td>
 </tr>
