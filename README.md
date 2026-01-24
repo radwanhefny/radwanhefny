@@ -133,9 +133,9 @@
 <table>
 <tr>
 <td align="center" width="180" height="200">
-  <a href="https://github.com/radwanhefny/linear-regression-from-scratch-univariate">
+  <a href="https://github.com/radwanhefny/House-Price-Advanced-Regression-Techniques">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/linear%20regression%20from%20scratch(uni).png" width="150"/><br>
-    LR From Scratch (Univariate)
+    House Price Advanced Regression Techniques
   </a>
 </td>
 
@@ -143,6 +143,13 @@
   <a href="https://github.com/radwanhefny/linear-regression-from-scratch-multivariate/tree/main">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/linear-regression-from-scratch(multi).png" width="150"/><br>
     LR From Scratch (Multivariate)
+  </a>
+</td>
+
+<td align="center" width="180" height="200">
+  <a href="https://github.com/radwanhefny/linear-regression-from-scratch-univariate">
+    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/linear%20regression%20from%20scratch(uni).png" width="150"/><br>
+    LR From Scratch (Univariate)
   </a>
 </td>
 </tr>
