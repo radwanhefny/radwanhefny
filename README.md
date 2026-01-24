@@ -122,13 +122,19 @@
 ### 📊 Data Analysis Projects
 <table>
 <tr>
-<td align="center" width="180" height="200">
-  <a href="https://github.com/radwanhefny/Mean-Variance-Standard-Deviation-Calculator">
-    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Mean%20Variance%20STD%20Calculator.png" width="150"/><br>
-    Mean Variance Standard Deviation Calculator
+  <td align="center" width="180" height="200">
+  <a href="https://github.com/radwanhefny/Sea-Level-Predictor">
+    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Sea%20Level%20Predictor.png" width="150"/><br>
+    Sea Level Predictor
   </a>
 </td>
-<td align="center" width="180" height="200">
+  <td align="center" width="180" height="200">
+  <a href="https://github.com/radwanhefny/Page-View-Time-Series-Visualizer">
+    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Page%20View%20Time%20Series%20Visualizer.png" width="150"/><br>
+    Page View Time Series Visualizer
+  </a>
+</td>
+  <td align="center" width="180" height="200">
   <a href="https://github.com/radwanhefny/Medical-Data-Visualizer">
     <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Medical%20Data%20Visualizer.png" width="150"/><br>
     Medical Data Visualizer
@@ -140,16 +146,10 @@
     Demographic Data Analyzer
   </a>
 </td>
-<td align="center" width="180" height="200">
-  <a href="https://github.com/radwanhefny/Page-View-Time-Series-Visualizer">
-    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Page%20View%20Time%20Series%20Visualizer.png" width="150"/><br>
-    Page View Time Series Visualizer
-  </a>
-</td>
-<td align="center" width="180" height="200">
-  <a href="https://github.com/radwanhefny/Sea-Level-Predictor">
-    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Sea%20Level%20Predictor.png" width="150"/><br>
-    Sea Level Predictor
+  <td align="center" width="180" height="200">
+  <a href="https://github.com/radwanhefny/Mean-Variance-Standard-Deviation-Calculator">
+    <img src="https://github.com/radwanhefny/radwanhefny/blob/main/photos/data%20analysis/Mean%20Variance%20STD%20Calculator.png" width="150"/><br>
+    Mean Variance Standard Deviation Calculator
   </a>
 </td>
 </tr>
