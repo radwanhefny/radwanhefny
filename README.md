@@ -7,10 +7,13 @@
 ---
 
 ## 🌱 About Me
-- 🤖 Focused on building **Robust Machine Learning Models** and **Delivering Data-Driven Insights**
-- 🚀 Transitioning from robust Data Analysis to building **Foundational Machine Learning Models** using **Scikit-learn**
-- 🧠 Passionate about applying **Mathematical Modeling and Statistics** to create clean, practical ML projects.  
-- 🎬 In my free time, I enjoy **watching movies and reading**
+
+- 🔍 **Data Analyst with a Mechanical Engineering foundation** — I approach data the way engineers approach systems: structured, root-cause focused.
+- 🐍 **Working across the full data stack:** Proficient in SQL, Python (Pandas, NumPy, Matplotlib, Scikit-learn), Power BI, and Excel.
+- 🤖 **Building foundational ML projects:** Focused on clean, interpretable models grounded in mathematical reasoning; Ranked in the **Top 4% (Rank 589)** in Kaggle's House Prices Competition.
+- 📖 **Open Source Contributor:** Created the **Bilingual Data Analysis Manual**, a comprehensive technical guide documenting best practices in SQL and Python for aspiring analysts.
+- 📊 **Business Focused:** Passionate about the intersection of statistical thinking and solving real-world business problems.
+- 🎬 **Personal:** In my free time, I enjoy exploring world cinema and reading.
 
 ---
 
@@ -19,43 +22,45 @@
 <table>
   <tr>
     <td align="center" width="150" height="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
-      <b>Python</b>
-    </td>
-    <td align="center" width="150" height="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
-      <b>NumPy</b>
-    </td>
-    <td align="center" width="150" height="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
-      <b>Pandas</b>
-    </td>
-    <!-- Matplotlib -->
-    <td align="center" width="150" height="150">
-      <img src="https://raw.githubusercontent.com/radwanhefny/radwanhefny/main/liberaries/matplotlib1.jpg" 
-           width="60" height="60" style="display:block;margin:auto; border-radius:8px;"/><br>
-      <b>Matplotlib</b>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="150" height="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
-      <b>Scikit-Learn</b>
-    </td>
-    <td align="center" width="150" height="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
       <b>SQL</b>
     </td>
     <td align="center" width="150" height="150">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
-      <b>Git</b>
+      <img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60" height="60" style="display:block;margin:auto;"/><br>
+      <b>Excel</b>
     </td>
-    <!-- Seaborn -->
     <td align="center" width="150" height="150">
-      <img src="https://raw.githubusercontent.com/radwanhefny/radwanhefny/main/liberaries/seaborn-1.jpg" 
-           width="60" height="60" style="display:block;margin:auto; border-radius:8px;"/><br>
+      <img src="https://img.icons8.com/color/96/power-bi.png" width="60" height="60" style="display:block;margin:auto;"/><br>
+      <b>Power BI</b>
+    </td>
+    <td align="center" width="150" height="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
+      <b>Python</b>
+    </td>
+        <td align="center" width="150" height="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
+      <b>NumPy</b>
+    </td>
+      </tr>
+    <td align="center" width="150" height="150">
+      <img src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas_white.svg" width="90" height="80" style="display:block;margin:auto; background:#150458; border-radius:8px; padding:4px;"/><br>
+      <b>Pandas</b>
+    </td>
+    <td align="center" width="150" height="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
+      <b>Matplotlib</b>
+    </td>
+    <td align="center" width="150" height="150">
+      <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
       <b>Seaborn</b>
+    </td>
+    <td align="center" width="150" height="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
+      <b>Scikit-Learn</b>
+    </td>
+    <td align="center" width="150" height="150">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60" height="60" style="display:block;margin:auto;"/><br>
+      <b>Git</b>
     </td>
   </tr>
 </table>
