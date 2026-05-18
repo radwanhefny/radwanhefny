@@ -1,6 +1,6 @@
 # 🌟 Hi 👋, I'm Radwan Hefny  
 <p align="center">
-  <img src="Gemini_Generated_Image_ytq0erytq0erytq0.png" width="350"/>
+  <img src="https://github.com/radwanhefny/radwanhefny/blob/main/Data-Analysis.png" width="350"/>
 </p>
 
 
