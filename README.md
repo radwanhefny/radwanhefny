@@ -85,9 +85,12 @@
   />
 </p>
 
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=radwanhefny&layout=compact&theme=dark" width="400"/>
+  <img 
+    src="https://github-readme-stats-mirror.vercel.app/api/top-langs/?username=radwanhefny&layout=compact&theme=dark" 
+    alt="Top Languages with Percentages"
+    width="400"
+  />
 </p>
 
 
