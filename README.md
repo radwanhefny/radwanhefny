@@ -10,7 +10,7 @@
 
 - 🔍 **Data Analyst with a Mechanical Engineering foundation** — I approach data the way engineers approach systems: structured, root-cause focused.
 - 🐍 **Working across the full data stack:** Proficient in SQL, Python (Pandas, NumPy, Matplotlib, Scikit-learn), Power BI, and Excel.
-- 🤖 **Building foundational ML projects:** Focused on clean, interpretable models grounded in mathematical reasoning; Ranked in the **Top 4% (Rank 589)** in Kaggle's House Prices Competition.
+- 🤖 **Building foundational ML projects:** Focused on clean, interpretable models grounded in mathematical reasoning; Ranked in the **Top 10% (Rank 589)** in Kaggle's House Prices Competition.
 - 📖 **Open Source Contributor:** Created the **Bilingual Data Analysis Manual**, a comprehensive technical guide documenting best practices in SQL and Python for aspiring analysts.
 - 📊 **Business Focused:** Passionate about the intersection of statistical thinking and solving real-world business problems.
 - 🎬 **Personal:** In my free time, I enjoy exploring world cinema and reading.
